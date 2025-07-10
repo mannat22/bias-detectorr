@@ -1,0 +1,15 @@
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
+nltk
+matplotlib
+seaborn
+train_test_split
+TfidVectorizer
+LogisticRegression
+stopwords
+wordcloud
+pickle
+LabelEncoder
